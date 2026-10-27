@@ -248,12 +248,6 @@ Potential directions for future development:
 
 These are future ideas, not existing features.
 
-## 11 / LICENSE
-
-Add a `LICENSE` file with your chosen open-source license before publishing a license claim. If you select MIT, include the standard MIT License text and the appropriate copyright holder.
-
----
-
 <p align="center">
   <br />
   <strong>AFTERDARK</strong>
