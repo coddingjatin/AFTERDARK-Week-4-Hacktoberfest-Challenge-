@@ -1,3 +1,5 @@
+<img width="1672" height="940" alt="Afterdark Terminal_ A Haunting Session" src="https://github.com/user-attachments/assets/f763dfde-694f-4414-a43e-dfafa340002f" />
+
 # ⌁ AFTERDARK
 
 ### Every command leaves a trace.
